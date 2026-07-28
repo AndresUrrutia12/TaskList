@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/tasklist/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/TasklistTest.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/237/stages/1188/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 29 Jun 2026 05:41:04 UTC"
+record: -1

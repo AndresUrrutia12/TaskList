@@ -1,0 +1,13 @@
+type: hyperskill
+title: Tasklist
+language: English
+summary: "<p>It's always good to have something that can\_remind you about important\
+  \ tasks. It may be simple paper notes or a sophisticated app. In this project, you\
+  \ will create a text-based program that shows tasks, deadlines, and priorities.</p>"
+programming_language: Kotlin
+content:
+  - Tasklist
+  - Topics
+additional_files: [ ]
+mode: Study
+yaml_version: 5
