@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+build/
+out/
+*.class
+course-info.yaml
+course-remote-info.yaml

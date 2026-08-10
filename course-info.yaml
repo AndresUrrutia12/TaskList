@@ -8,6 +8,10 @@ programming_language: Kotlin
 content:
   - Tasklist
   - Topics
-additional_files: [ ]
+additional_files:
+  - name: build.gradle
+    visible: true
+  - name: settings.gradle
+    visible: true
 mode: Study
 yaml_version: 5
